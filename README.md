@@ -17,5 +17,5 @@ Ganha quem destruir todos os navios do adversário primeiro!
 ✨ Recursos do projeto:
 Interface visual no terminal com emojis
 Exibição simultânea dos tabuleiros do jogador e do oponente
-Mecânica de turnos entre jogador e IA
+Mecânica de turnos entre jogador e o computador
 Feedback visual para acertos e erros
